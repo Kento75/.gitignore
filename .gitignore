@@ -280,3 +280,9 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+######################
+# Others
+######################
+memo.txt
+memo.md
