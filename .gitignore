@@ -286,3 +286,5 @@ Desktop.ini
 ######################
 memo.txt
 memo.md
+
+*.pem
